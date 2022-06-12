@@ -1,0 +1,47 @@
+/* Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* LG :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider-height {
+	min-height: 650px;
+}
+.slider-content h2 {
+	font-size: 56px;
+}
+.case-content h3 {
+	font-size: 18px;
+}
+.consultation-form {
+	padding: 40px;
+}
+.faq-thumb img {
+	margin-left: 0;
+	width: 100%;
+}
+
+}
+
+
+/* MD :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+
+/* XS  :320px. */
+@media (max-width: 767px) {
+
+
+}
+
+/* SM :550px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+
+
+}
